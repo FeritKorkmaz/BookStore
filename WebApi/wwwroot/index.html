@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Store</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <header class="text-danger text-center mb-5">
+      <h1>Book Store</h1>
+    </header>
+
+    <!-- Query -->
+    <div class="container">
+      <div class="row">
+        <!-- Show book list -->
+        <div class="col text-center">
+          <h2>Show Book List</h2>
+          <div>
+            <button
+              id="RefreshList"
+              class="btn btn-primary"
+              type="button"
+              onclick="document.location.reload(true);"
+            >
+              Refresh list
+            </button>
+            <button id="showList" class="btn btn-primary" type="button">
+              Show List
+            </button>
+            <ul id="List" class="list-group">
+              <!-- Book list items will be added here by JavaScript -->
+            </ul>
+          </div>
+        </div>
+        <!-- Show book list -->
+
+        <!-- Show book -->
+        <div class="col text-center">
+          <h2>Show Book</h2>
+          <div>
+            <label for="bookId">Book Id:</label>
+            <input type="number" id="bookId" required />
+            <button id="showBook" class="btn btn-primary" type="submit">
+              Show Book
+            </button>
+            <ul id="book" class="list-group">
+              <!-- Book item will be added here by JavaScript -->
+            </ul>
+          </div>
+        </div>
+        <!-- Show book -->
+      </div>
+    </div>
+    <!-- Query -->
+
+    <!-- Command -->
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Add new book -->
+        <div class="col mt-5 text-dark text-center">
+          <h2>Add New Book</h2>
+          <form id="authorForm">
+            <div>
+              <label for="Title">Title:</label>
+              <input type="text" id="title" required />
+            </div>
+            <div>
+              <label for="PageCount">PageCount:</label>
+              <input type="number" id="pageCount" required />
+            </div>
+            <div>
+              <label for="PublishDate">PublishDate:</label>
+              <input type="date" id="publishDate" required />
+            </div>
+            <div>
+              <label for="Genre">Genre:</label>
+              <input type="number" id="genre" required />
+            </div>
+            <div>
+              <label for="Author">Author:</label>
+              <input type="number" id="author" required />
+            </div>
+            <button class="btn btn-primary" type="submit">Add Books</button>
+          </form>
+        </div>
+        <!-- Add new book -->
+
+        <!-- Delete book -->
+        <div class="col mt-5 text-dark text-center">
+          <h2>Delete Book</h2>
+          <form id="deleteForm">
+            <div>
+              <label for="deleteBookId">Book Id:</label>
+              <input type="number" id="deleteBookId" required />
+            </div>
+            <button class="btn btn-primary" type="submit">Delete Book</button>
+          </form>
+        </div>
+        <!-- Delete book -->
+
+        <!-- Update book -->
+        <div class="col mt-5 text-dark text-center">
+          <h2>Update Book</h2>
+          <form id="updateForm">
+            <div>
+              <label for="UpdateBookId">Book Id:</label>
+              <input type="number" id="UpdateBookId" required />
+            </div>
+            <div>
+              <label for="Title">Title:</label>
+              <input type="text" id="UpdateTitle" required />
+            </div>
+
+            <div>
+              <label for="Genre">Genre:</label>
+              <input type="number" id="UpdateGenre" required />
+            </div>
+
+            <div>
+              <label for="Author">Author:</label>
+              <input type="number" id="UpdateAuthor" required />
+            </div>
+
+            <button class="btn btn-primary" type="submit">Update Books</button>
+          </form>
+        </div>
+        <!-- Update book -->
+      </div>
+    </div>
+    <!-- Command -->
+
+    <script src="script.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

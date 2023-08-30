@@ -1,0 +1,200 @@
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\Ferit\Documents\Sites\All Practices\Works of Net Core\BookStore\WebApi\bin\Debug\net6.0\WebApi.staticwebassets.runtime.json
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\appsettings.json
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\WebApi.staticwebassets.runtime.json
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\WebApi.exe
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\WebApi.deps.json
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\WebApi.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\WebApi.pdb
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\FluentValidation.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.pdb
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+c:\Users\Ferit\Documents\Sites\BookStore\BookStore\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\appsettings.Development.json
+f:\BookStore\WebApi\bin\Debug\net6.0\appsettings.json
+f:\BookStore\WebApi\bin\Debug\net6.0\WebApi.staticwebassets.runtime.json
+f:\BookStore\WebApi\bin\Debug\net6.0\WebApi.exe
+f:\BookStore\WebApi\bin\Debug\net6.0\WebApi.deps.json
+f:\BookStore\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+f:\BookStore\WebApi\bin\Debug\net6.0\WebApi.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\WebApi.pdb
+f:\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\FluentValidation.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+f:\BookStore\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+f:\BookStore\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+f:\BookStore\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+f:\BookStore\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.dll
+f:\BookStore\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.pdb
+f:\BookStore\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+f:\BookStore\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\appsettings.json
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\WebApi.staticwebassets.runtime.json
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\WebApi.exe
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\WebApi.deps.json
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\WebApi.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\WebApi.pdb
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\FluentValidation.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.pdb
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\ref\WebApi.dll
