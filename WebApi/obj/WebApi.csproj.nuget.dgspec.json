@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj": {}
+    "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj": {
+    "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
+        "projectPath": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\obj\\",
+        "outputPath": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config"
