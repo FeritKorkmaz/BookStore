@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d20Iy8Q173MBihFi7gWNLQBxgGWerrIRuXnapYrPbduHBP7vSb23pWK0S9/8xmJhB3YgPWy1qPB7Dl+fV0RWzg==",
+  "dgSpecHash": "9bXUZc+dKHuRaSmMHHKG9cE13x3EZCVwzYbTjDKmwjyK5cmfDg6XrZMTVMnS8bf1VX2jevv414mrfHuCzVMmDw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ferit\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ferit\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

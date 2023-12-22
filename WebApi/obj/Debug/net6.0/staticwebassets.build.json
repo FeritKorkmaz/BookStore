@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0GBbUvVX8jp6j3ZBXqIL4Gnvl0Dn8sg5PhBDorhD3F0=",
+  "Hash": "umOJZlhK8TzWjdYTNuPy3/AeeidvSApNtnigAW9YiL4=",
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
@@ -10,24 +10,22 @@
     {
       "Name": "WebApi\\wwwroot",
       "Source": "WebApi",
-      "ContentRoot": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\index.html",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
       "RelativePath": "index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
@@ -36,17 +34,15 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\script.js",
+      "Identity": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\script.js",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
       "RelativePath": "script.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",

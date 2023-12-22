@@ -1357,21 +1357,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1442,7 +1440,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

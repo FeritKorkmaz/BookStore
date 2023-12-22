@@ -198,9 +198,3 @@ c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\refint\Web
 c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.pdb
 c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\ref\WebApi.dll
-c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
-c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
-c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
-c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
-c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
-c:\Users\Ferit\Documents\KOD\Github\BookStore\WebApi\obj\Debug\net6.0\WebApi.sourcelink.json
