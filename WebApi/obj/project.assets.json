@@ -1357,11 +1357,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
       "projectPath": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
+      "projectName": "WebApi",
+      "projectPath": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\Ferit\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\obj\\",
+>>>>>>> 780560c447dd0a0a738357b74306b720247eb283
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config"

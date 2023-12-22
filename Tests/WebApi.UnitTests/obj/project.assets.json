@@ -7361,14 +7361,21 @@
       "outputPath": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\Tests\\WebApi.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+        "C:\\Users\\Ferit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 780560c447dd0a0a738357b74306b720247eb283
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+<<<<<<< HEAD
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
+>>>>>>> 780560c447dd0a0a738357b74306b720247eb283
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7444,7 +7451,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+>>>>>>> 780560c447dd0a0a738357b74306b720247eb283
       }
     }
   }

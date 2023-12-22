@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "LPfRmoXqZh3lzgQNDlmZpwvBqKU7qObIiFJEkgRzQ+7f/rRYpk3r8CWsOzeKuKC8Tx952+Ewos34W+FDZXb85w==",
+=======
+  "dgSpecHash": "qa57ld1xkwmJuBQw+1dDcV4agrfD38RMhwExE6MelwZQgVgJIM+H+zduEUzXD/+o+iJC3704eM074V1IEcEAdQ==",
+>>>>>>> 780560c447dd0a0a738357b74306b720247eb283
   "success": true,
   "projectFilePath": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\Tests\\WebApi.UnitTests\\WebApi.UnitTests.csproj",
   "expectedPackageFiles": [

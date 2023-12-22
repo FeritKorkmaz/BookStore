@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "umOJZlhK8TzWjdYTNuPy3/AeeidvSApNtnigAW9YiL4=",
+=======
+  "Hash": "0nUpq5eZypcehO5XMJ1Cb64pLB5GC4Esf72f5ClfU3o=",
+>>>>>>> 780560c447dd0a0a738357b74306b720247eb283
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "WebApi\\wwwroot",
       "Source": "WebApi",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
+=======
+      "ContentRoot": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
+>>>>>>> 780560c447dd0a0a738357b74306b720247eb283
       "BasePath": "_content/WebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\index.html",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\index.html",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
+>>>>>>> 780560c447dd0a0a738357b74306b720247eb283
       "BasePath": "_content/WebApi",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -34,10 +49,17 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\script.js",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\script.js",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Ferit\\Documents\\KOD\\Github\\BookStore\\WebApi\\wwwroot\\",
+>>>>>>> 780560c447dd0a0a738357b74306b720247eb283
       "BasePath": "_content/WebApi",
       "RelativePath": "script.js",
       "AssetKind": "All",

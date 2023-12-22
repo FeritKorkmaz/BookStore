@@ -554,4 +554,7 @@ c:\Users\Ferit\Documents\KOD\Github\BookStore\Tests\WebApi.UnitTests\obj\Debug\n
 c:\Users\Ferit\Documents\KOD\Github\BookStore\Tests\WebApi.UnitTests\obj\Debug\net6.0\WebApi.UnitTests.pdb
 c:\Users\Ferit\Documents\KOD\Github\BookStore\Tests\WebApi.UnitTests\obj\Debug\net6.0\WebApi.UnitTests.genruntimeconfig.cache
 c:\Users\Ferit\Documents\KOD\Github\BookStore\Tests\WebApi.UnitTests\obj\Debug\net6.0\ref\WebApi.UnitTests.dll
+<<<<<<< HEAD
 c:\Users\Ferit\Documents\KOD\Github\BookStore\Tests\WebApi.UnitTests\obj\Debug\net6.0\WebApi.UnitTests.sourcelink.json
+=======
+>>>>>>> 780560c447dd0a0a738357b74306b720247eb283
